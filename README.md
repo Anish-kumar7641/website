@@ -1,3 +1,4 @@
+Logr - An amazing project
 # CindyJS web site
 
 This repository contains the sources from which
